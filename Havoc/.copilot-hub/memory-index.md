@@ -1,3 +1,0 @@
-- [2026-07-16] /home/kali/Desktop/Havoc/.copilot-hub/2026/07/16/10/4909-你帮我看一下这个havoc文件夹下有没有远程文件管理功能.md — 检查 Havoc 框架是否包含远程文件管理功能(结论:有,完整实现)
-- [2026-07-16] /home/kali/Desktop/Havoc/.copilot-hub/2026/07/16/10/5617-删除掉 服务端 客户端 木马端的 远程文件管理功能.md — Removed remote FS management from teamserver, client, and Demon
-- [2026-07-16] /home/kali/Desktop/Havoc/.copilot-hub/2026/07/11/11/3857-conversation-summary_ Older co.md — Removed orphaned FS code: demons.go TASK_BUILD+CommandOutput cases, commands.go DEMON_COMMAND_FS_* constants, Command.c ~380-line orphaned block
